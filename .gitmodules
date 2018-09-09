@@ -1,0 +1,3 @@
+[submodule "vendor/furigana"]
+	path = vendor/furigana
+	url = https://github.com/MikimotoH/furigana
