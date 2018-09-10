@@ -35,4 +35,6 @@ Date: Sun, 09 Sep 2018 23:47:56 GMT
 }
 ```
 
+# Using
 
+This is live on [now.sh](https://zeit.co/now), at https://furiganaweb-umdhypwttw.now.sh and on usable like https://codepen.io/perrinjerome/full/BOJVwZ/
